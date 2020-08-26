@@ -6,22 +6,15 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1963bef-20e6-45c3-9262-b3b2d288510e" name="Default Changelist" comment="feat: ⚡ layout modification">
+    <list default="true" id="f1963bef-20e6-45c3-9262-b3b2d288510e" name="Default Changelist" comment="feat: ⚡ forked from https://mmistakes.github.io/minimal-mistakes/docs/layouts/">
+      <change afterPath="$PROJECT_DIR$/_life/2020-08-27-helloworld.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_pages/Life.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-08-27-blogcreated.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-08-27-blogcreated.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598455915114</updated>
-      <workItem from="1598455916182" duration="2824000" />
+      <workItem from="1598455916182" duration="4403000" />
     </task>
     <task id="LOCAL-00001" summary="feat: ⚡ 새로운 기능">
       <created>1598456324461</created>
@@ -109,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598457724755</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: ⚡ forked from https://mmistakes.github.io/minimal-mistakes/docs/layouts/">
+      <created>1598459192253</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598459192253</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,12 +130,17 @@
     <MESSAGE value="feat: ⚡ 새로운 기능" />
     <MESSAGE value="feat: ⚡ layout" />
     <MESSAGE value="feat: ⚡ layout modification" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: ⚡ layout modification" />
+    <MESSAGE value="feat: ⚡ forked from https://mmistakes.github.io/minimal-mistakes/docs/layouts/" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: ⚡ forked from https://mmistakes.github.io/minimal-mistakes/docs/layouts/" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598458034707">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598459199447">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598458034707" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598459199447" />
+    <state x="774" y="414" key="git4idea.ui.GitResetDialog" timestamp="1598458985237">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="774" y="414" key="git4idea.ui.GitResetDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598458985237" />
   </component>
 </project>
