@@ -4,7 +4,7 @@ layout: posts
 date: 2020-01-28
 tags: [example, project]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: "/images/study-photo.jpg"
 excerpt: "study, diary, life"
 mathjax: "true"
 ---
