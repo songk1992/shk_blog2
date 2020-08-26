@@ -10,8 +10,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1963bef-20e6-45c3-9262-b3b2d288510e" name="Default Changelist" comment="feat: ⚡ Daily Logging">
-      <change afterPath="$PROJECT_DIR$/images/study-photo.jpg" afterDir="false" />
+    <list default="true" id="f1963bef-20e6-45c3-9262-b3b2d288510e" name="Default Changelist" comment="feat: ⚡ (changed photo) Daily Logging">
+      <change afterPath="$PROJECT_DIR$/_pages/portfolio.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/man-suit-photo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Life.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/life.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +52,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\study\guru\shk_blog\images" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
@@ -69,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598455915114</updated>
-      <workItem from="1598455916182" duration="4764000" />
+      <workItem from="1598455916182" duration="5729000" />
     </task>
     <task id="LOCAL-00001" summary="feat: ⚡ 새로운 기능">
       <created>1598456324461</created>
@@ -113,7 +122,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598461067675</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat: ⚡ (changed photo) Daily Logging">
+      <created>1598461482396</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1598461482396</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: ⚡ (changed photo) Daily Logging">
+      <created>1598461500992</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1598461500992</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,7 +159,8 @@
     <MESSAGE value="feat: ⚡ layout modification" />
     <MESSAGE value="feat: ⚡ forked from https://mmistakes.github.io/minimal-mistakes/docs/layouts/" />
     <MESSAGE value="feat: ⚡ Daily Logging" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: ⚡ Daily Logging" />
+    <MESSAGE value="feat: ⚡ (changed photo) Daily Logging" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: ⚡ (changed photo) Daily Logging" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1598461033783">
@@ -159,10 +183,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="263" key="IDE.errors.dialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598461163405" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598461151247">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598461506165">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598461151247" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598461506165" />
     <state x="774" y="414" key="git4idea.ui.GitResetDialog" timestamp="1598458985237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
