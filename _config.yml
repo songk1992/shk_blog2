@@ -282,21 +282,11 @@ defaults:
       share: true
       related: true
 
-  # pages
+  # _pages
   - scope:
       path: ""
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
-
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
       share: true
       comments: true
