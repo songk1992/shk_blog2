@@ -291,9 +291,9 @@ defaults:
       share: true
       comments: true
 
-  # life
+  # _life
   - scope:
-      path: ""
+      path: /life/
       type: posts
     values:
       layout: single
