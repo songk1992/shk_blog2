@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1963bef-20e6-45c3-9262-b3b2d288510e" name="Default Changelist" comment="feat: ⚡ (changed photo) Daily Logging">
+    <list default="true" id="f1963bef-20e6-45c3-9262-b3b2d288510e" name="Default Changelist" comment="feat: ⚡ (changed config.yml) Daily Logging">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
@@ -75,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598455915114</updated>
-      <workItem from="1598455916182" duration="6149000" />
+      <workItem from="1598455916182" duration="6760000" />
     </task>
     <task id="LOCAL-00001" summary="feat: ⚡ 새로운 기능">
       <created>1598456324461</created>
@@ -147,7 +147,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598462365756</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="feat: ⚡ (changed config.yml) Daily Logging">
+      <created>1598462802613</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1598462802613</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat: ⚡ (changed config.yml) Daily Logging">
+      <created>1598463049516</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1598463049516</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +185,8 @@
     <MESSAGE value="feat: ⚡ forked from https://mmistakes.github.io/minimal-mistakes/docs/layouts/" />
     <MESSAGE value="feat: ⚡ Daily Logging" />
     <MESSAGE value="feat: ⚡ (changed photo) Daily Logging" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: ⚡ (changed photo) Daily Logging" />
+    <MESSAGE value="feat: ⚡ (changed config.yml) Daily Logging" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: ⚡ (changed config.yml) Daily Logging" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1598461033783">
@@ -194,10 +209,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="263" key="IDE.errors.dialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598461163405" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598462371820">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598463055169">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598462371820" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598463055169" />
     <state x="774" y="414" key="git4idea.ui.GitResetDialog" timestamp="1598458985237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
