@@ -4,7 +4,8 @@ blog + portfolio
 # Link
 https://nxver.com
 
-<hr>
+<hr>  
+  
 # Source + Reference
 https://mmistakes.github.io/minimal-mistakes/docs/license/
 <br>
