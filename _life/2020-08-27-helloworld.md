@@ -4,7 +4,7 @@ layout: posts
 date: 2020-08-27
 tags: [life, hello]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: "/images/boat-photo.jpg"
 excerpt: "life"
 mathjax: "true"
 ---
