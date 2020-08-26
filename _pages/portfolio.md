@@ -1,10 +1,7 @@
 ---
-title: Portfolio
-layout: collection
+layout: single
+title: "Portfolio"
 permalink: /portfolio/
-collection: portfolio
-entries_layout: grid
-classes: wide
 header: 
     image: "/images/man-suit-photo.jpg"
 sidebar:
